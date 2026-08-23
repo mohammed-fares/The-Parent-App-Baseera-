@@ -1,0 +1,6 @@
+{
+  "name": "Baseera - بصيرة",
+  "description": "تطبيق الوالد للرصد الذكي والحماية الأبوية والتحليلات السلوكية والتحكم الفوري للأطفال",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
